@@ -1,2 +1,2 @@
-# algamoney-ui
+# Money-ui
 
